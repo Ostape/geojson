@@ -1,87 +1,15 @@
 {
-{
-"type": "FeatureCollection",
-"features": [
-{
-"type": "Feature",
-"properties": {},
-"geometry": {
-"type": "LineString",
-"coordinates": [
-[
-47.13026404380798,
-9.53280758153806
-],
-[
-47.13080048561096,
-9.528776318322342
-]
-]
-}
-}
-]
-}
-{
-"type": "FeatureCollection",
-"features": [
-{
-"type": "Feature",
-"properties": {},
-"geometry": {
-"type": "Polygon",
-"coordinates": [
-[
-[
-47.13148713111877,
-9.53216215939578
-],
-[
-47.13148713111877,
-9.53216215939578
-],
-[
-47.13148713111877,
-9.53216215939578
-],
-[
-47.13148713111877,
-9.53216215939578
-]
-]
-]
-}
-},
-{
-"type": "Feature",
-"properties": {},
-"geometry": {
-"type": "Polygon",
-"coordinates": [
-[
-[
-47.128000259399414,
-9.52858586376412
-],
-[
-47.132699489593506,
-9.52858586376412
-],
-[
-47.132699489593506,
-9.532394934735397
-],
-[
-47.128000259399414,
-9.532394934735397
-],
-[
-47.128000259399414,
-9.52858586376412
-]
-]
-]
-}
-}
-]
-}
+	"type" : "FeatureCollection",
+	"features" : [{ 
+		"type" : "Feature", 
+		"properties" : {  
+			"capacity" : "10", 
+			"type" : "U-Rack",
+			"mount" : "Surface"
+		}, 
+		"geometry" : { 
+			"type" : "Point", 
+			"coordinates" : [ -71.073283, 42.417500 ] 
+		}
+	}]
 }
